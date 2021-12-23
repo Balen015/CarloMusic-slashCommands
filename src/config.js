@@ -1,12 +1,12 @@
 module.exports = {
-    token: "",
-    prefix: "",
-    ownerID: "",
-    SpotifyID: "",
+    token: "OTIxNjc0NjIzNTI1OTgyMjA4.Yb2WYg.zHKTMk_7H1Apk7_Fx59uM2sgJcE",
+    prefix: "$",
+    ownerID: "761130661763219456",
+    SpotifyID: " ",
     SpotifySecret: "",
-    mongourl: "",
-    embedColor: "",
-    logs: "",
+    mongourl: "mongodb+srv://carloteto12:carloteto12@cluster0.vosne.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    embedColor: "RONDOM",
+    logs: 919991426559901706 "Log chanal Join w left",
 
   nodes: {
      
